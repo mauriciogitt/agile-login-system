@@ -1,3 +1,5 @@
+print("Bem-vindo ao sistema")
+
 # Sistema de login
 
 print("Sistema iniciado")
