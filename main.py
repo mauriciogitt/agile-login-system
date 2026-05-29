@@ -13,7 +13,7 @@ if usuario == usuario_correto and senha == senha_correta:
     while True:
 
         print("\n1 - Adicionar tarefa")
-        print("2 - Ver tarefas")
+        print("2 - Listar tarefas")
         print("3 - Sair")
 
         opcao = input("Escolha: ")
