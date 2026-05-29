@@ -1,8 +1,11 @@
+# Sistema de login
+
 print("Sistema iniciado")
 
 usuario_correto = "admin"
 senha_correta = "123"
 
+# Lista de tarefas
 tarefas = []
 
 usuario = input("Usuário: ")
