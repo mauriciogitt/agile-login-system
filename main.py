@@ -1,3 +1,5 @@
+print("Sistema iniciado")
+
 usuario_correto = "admin"
 senha_correta = "123"
 
