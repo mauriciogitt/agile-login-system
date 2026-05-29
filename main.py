@@ -33,3 +33,5 @@ if usuario == usuario_correto and senha == senha_correta:
 
 else:
     print("Login inválido")
+
+    print("Sistema encerrado")
