@@ -15,3 +15,8 @@ Sistema simples de login e gerenciamento de tarefas desenvolvido para a discipli
 
 ## Metodologia
 Foi utilizada metodologia Kanban para organização das tarefas.
+
+
+## Mudança de Escopo
+
+Foi adicionada uma melhoria no sistema para preparação futura de priorização de tarefas.
